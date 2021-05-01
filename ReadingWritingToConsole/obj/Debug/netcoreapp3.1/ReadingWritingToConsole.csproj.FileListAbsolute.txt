@@ -1,0 +1,12 @@
+C:\Users\ASUS\Desktop\c#_practice\ReadingWritingToConsole\bin\Debug\netcoreapp3.1\ReadingWritingToConsole.exe
+C:\Users\ASUS\Desktop\c#_practice\ReadingWritingToConsole\bin\Debug\netcoreapp3.1\ReadingWritingToConsole.deps.json
+C:\Users\ASUS\Desktop\c#_practice\ReadingWritingToConsole\bin\Debug\netcoreapp3.1\ReadingWritingToConsole.runtimeconfig.json
+C:\Users\ASUS\Desktop\c#_practice\ReadingWritingToConsole\bin\Debug\netcoreapp3.1\ReadingWritingToConsole.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\c#_practice\ReadingWritingToConsole\bin\Debug\netcoreapp3.1\ReadingWritingToConsole.dll
+C:\Users\ASUS\Desktop\c#_practice\ReadingWritingToConsole\bin\Debug\netcoreapp3.1\ReadingWritingToConsole.pdb
+C:\Users\ASUS\Desktop\c#_practice\ReadingWritingToConsole\obj\Debug\netcoreapp3.1\ReadingWritingToConsole.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\c#_practice\ReadingWritingToConsole\obj\Debug\netcoreapp3.1\ReadingWritingToConsole.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\c#_practice\ReadingWritingToConsole\obj\Debug\netcoreapp3.1\ReadingWritingToConsole.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\c#_practice\ReadingWritingToConsole\obj\Debug\netcoreapp3.1\ReadingWritingToConsole.dll
+C:\Users\ASUS\Desktop\c#_practice\ReadingWritingToConsole\obj\Debug\netcoreapp3.1\ReadingWritingToConsole.pdb
+C:\Users\ASUS\Desktop\c#_practice\ReadingWritingToConsole\obj\Debug\netcoreapp3.1\ReadingWritingToConsole.genruntimeconfig.cache

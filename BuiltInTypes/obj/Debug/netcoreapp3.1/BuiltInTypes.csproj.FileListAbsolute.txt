@@ -1,0 +1,11 @@
+C:\Users\ASUS\Desktop\c#_practice\BuiltInTypes\bin\Debug\netcoreapp3.1\BuiltInTypes.exe
+C:\Users\ASUS\Desktop\c#_practice\BuiltInTypes\bin\Debug\netcoreapp3.1\BuiltInTypes.deps.json
+C:\Users\ASUS\Desktop\c#_practice\BuiltInTypes\bin\Debug\netcoreapp3.1\BuiltInTypes.runtimeconfig.json
+C:\Users\ASUS\Desktop\c#_practice\BuiltInTypes\bin\Debug\netcoreapp3.1\BuiltInTypes.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\c#_practice\BuiltInTypes\bin\Debug\netcoreapp3.1\BuiltInTypes.dll
+C:\Users\ASUS\Desktop\c#_practice\BuiltInTypes\bin\Debug\netcoreapp3.1\BuiltInTypes.pdb
+C:\Users\ASUS\Desktop\c#_practice\BuiltInTypes\obj\Debug\netcoreapp3.1\BuiltInTypes.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\c#_practice\BuiltInTypes\obj\Debug\netcoreapp3.1\BuiltInTypes.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\c#_practice\BuiltInTypes\obj\Debug\netcoreapp3.1\BuiltInTypes.dll
+C:\Users\ASUS\Desktop\c#_practice\BuiltInTypes\obj\Debug\netcoreapp3.1\BuiltInTypes.pdb
+C:\Users\ASUS\Desktop\c#_practice\BuiltInTypes\obj\Debug\netcoreapp3.1\BuiltInTypes.genruntimeconfig.cache

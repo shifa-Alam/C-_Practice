@@ -1,0 +1,12 @@
+C:\Users\ASUS\Desktop\c#_practice\kudvenkat\practice\AbstractClass\bin\Debug\netcoreapp3.1\abstractClass.exe
+C:\Users\ASUS\Desktop\c#_practice\kudvenkat\practice\AbstractClass\bin\Debug\netcoreapp3.1\abstractClass.deps.json
+C:\Users\ASUS\Desktop\c#_practice\kudvenkat\practice\AbstractClass\bin\Debug\netcoreapp3.1\abstractClass.runtimeconfig.json
+C:\Users\ASUS\Desktop\c#_practice\kudvenkat\practice\AbstractClass\bin\Debug\netcoreapp3.1\abstractClass.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\c#_practice\kudvenkat\practice\AbstractClass\bin\Debug\netcoreapp3.1\abstractClass.dll
+C:\Users\ASUS\Desktop\c#_practice\kudvenkat\practice\AbstractClass\bin\Debug\netcoreapp3.1\abstractClass.pdb
+C:\Users\ASUS\Desktop\c#_practice\kudvenkat\practice\AbstractClass\obj\Debug\netcoreapp3.1\abstractClass.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\c#_practice\kudvenkat\practice\AbstractClass\obj\Debug\netcoreapp3.1\abstractClass.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\c#_practice\kudvenkat\practice\AbstractClass\obj\Debug\netcoreapp3.1\abstractClass.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\c#_practice\kudvenkat\practice\AbstractClass\obj\Debug\netcoreapp3.1\abstractClass.dll
+C:\Users\ASUS\Desktop\c#_practice\kudvenkat\practice\AbstractClass\obj\Debug\netcoreapp3.1\abstractClass.pdb
+C:\Users\ASUS\Desktop\c#_practice\kudvenkat\practice\AbstractClass\obj\Debug\netcoreapp3.1\abstractClass.genruntimeconfig.cache
