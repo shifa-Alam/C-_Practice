@@ -1,0 +1,11 @@
+C:\Users\ASUS\Desktop\c#_practice\kudvenkat\practice\DelegatePractice\bin\Debug\netcoreapp3.1\DelegatePractice.exe
+C:\Users\ASUS\Desktop\c#_practice\kudvenkat\practice\DelegatePractice\bin\Debug\netcoreapp3.1\DelegatePractice.deps.json
+C:\Users\ASUS\Desktop\c#_practice\kudvenkat\practice\DelegatePractice\bin\Debug\netcoreapp3.1\DelegatePractice.runtimeconfig.json
+C:\Users\ASUS\Desktop\c#_practice\kudvenkat\practice\DelegatePractice\bin\Debug\netcoreapp3.1\DelegatePractice.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\c#_practice\kudvenkat\practice\DelegatePractice\bin\Debug\netcoreapp3.1\DelegatePractice.dll
+C:\Users\ASUS\Desktop\c#_practice\kudvenkat\practice\DelegatePractice\bin\Debug\netcoreapp3.1\DelegatePractice.pdb
+C:\Users\ASUS\Desktop\c#_practice\kudvenkat\practice\DelegatePractice\obj\Debug\netcoreapp3.1\DelegatePractice.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\c#_practice\kudvenkat\practice\DelegatePractice\obj\Debug\netcoreapp3.1\DelegatePractice.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\c#_practice\kudvenkat\practice\DelegatePractice\obj\Debug\netcoreapp3.1\DelegatePractice.dll
+C:\Users\ASUS\Desktop\c#_practice\kudvenkat\practice\DelegatePractice\obj\Debug\netcoreapp3.1\DelegatePractice.pdb
+C:\Users\ASUS\Desktop\c#_practice\kudvenkat\practice\DelegatePractice\obj\Debug\netcoreapp3.1\DelegatePractice.genruntimeconfig.cache
