@@ -1,0 +1,16 @@
+D:\CSharp_Practice\practice\Generics\bin\Debug\net5.0\Generics.exe
+D:\CSharp_Practice\practice\Generics\bin\Debug\net5.0\Generics.deps.json
+D:\CSharp_Practice\practice\Generics\bin\Debug\net5.0\Generics.runtimeconfig.json
+D:\CSharp_Practice\practice\Generics\bin\Debug\net5.0\Generics.runtimeconfig.dev.json
+D:\CSharp_Practice\practice\Generics\bin\Debug\net5.0\Generics.dll
+D:\CSharp_Practice\practice\Generics\bin\Debug\net5.0\ref\Generics.dll
+D:\CSharp_Practice\practice\Generics\bin\Debug\net5.0\Generics.pdb
+D:\CSharp_Practice\practice\Generics\obj\Debug\net5.0\Generics.csproj.AssemblyReference.cache
+D:\CSharp_Practice\practice\Generics\obj\Debug\net5.0\Generics.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp_Practice\practice\Generics\obj\Debug\net5.0\Generics.AssemblyInfoInputs.cache
+D:\CSharp_Practice\practice\Generics\obj\Debug\net5.0\Generics.AssemblyInfo.cs
+D:\CSharp_Practice\practice\Generics\obj\Debug\net5.0\Generics.csproj.CoreCompileInputs.cache
+D:\CSharp_Practice\practice\Generics\obj\Debug\net5.0\Generics.dll
+D:\CSharp_Practice\practice\Generics\obj\Debug\net5.0\ref\Generics.dll
+D:\CSharp_Practice\practice\Generics\obj\Debug\net5.0\Generics.pdb
+D:\CSharp_Practice\practice\Generics\obj\Debug\net5.0\Generics.genruntimeconfig.cache
